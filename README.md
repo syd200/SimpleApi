@@ -52,6 +52,9 @@ $ python -m venv [env-name]
 
 # activating the virtual environment
 $ source [env-name]/bin/activate
+
+# install all dependencies in virtual environment
+$ pip install -r requirement.txt
 ```
 
 ### Running the Application
